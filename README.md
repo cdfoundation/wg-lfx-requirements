@@ -39,8 +39,8 @@ Chairs and the TOC Sponsor of the Working Group are:
 CDF LFX Requirements communication happens via a public mailing list and everyone is
 welcome to join our open discussions.
 
-
-* Maillist: 
+* Maillist: https://lists.cd.foundation/g/wg-lfx-requirements
+* Slack: #wg-lfx-requirements
 
 
 ## Meetings
