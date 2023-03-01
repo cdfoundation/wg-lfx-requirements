@@ -21,6 +21,7 @@ LFX Tools have become an essential part of the open-source project tool kit. To 
 ## Members
 
 * Tracy Ragam ([@tracyragan](https://github.com/tracyragan)), DeployHub
+* Robert Reeves ([@r2liquibase](https://github.com/r2liquibase)), Liquibase
 
 
 ## New Members
@@ -32,6 +33,7 @@ Membership to the CDF LFX Requirements Working Group is open to public and self-
 Chairs and the TOC Sponsor of the Working Group are:
 
 * Tracy Ragan ([@tracyragan](https://github.com/tracyragan)), DeployHub - Chair
+* Robert Reeves ([@r2liquibase](https://github.com/r2liquibase)), Liquibase - Co-Chair
 
 
 ## Communication
